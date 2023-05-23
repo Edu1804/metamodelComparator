@@ -1,8 +1,13 @@
 
-# Datalake Comparador Metamodelos
+# Comparador Metamodelos
 
-Este proyecto se encarga de comparar estructuras de datos (Ficheros Excel y Sistemas de Ficheros) que poseen la misma estructura.
-El analizador se encarga de convertir cada estrcutura en un objeto Java para posteriormente compararlos uno a uno y hallar las diferencias existentes entre ambos modelos.
-Además, posee la opción de obtener un resumen de los disociadores del fichero Excel. Antes de realizar la comparación, el programa genera un fichero con las diferencias encontrados entre ambos.
-Para aplicar los cambios en el Sistema de Ficheros hay que escoger los tipos de cambios a realizar (Insserción, Actualización o Eliminación).
+En este proyecto se ha desarrollado una herramienta 
+de comparación de metamodelos que permiten comparar y analizar la información 
+de diferentes archivos con datos estructurados. En particular, en este objeto de 
+estudio se presenta un comparador de metamodelos de Excel y Sistema de 
+Ficheros de Archivos que permite comparar y analizar los datos contenidos en estos 
+tipos de archivos en los distintos niveles en los que se encuentra.
+Este comparador de metamodelos utiliza una técnica de modelado de datos que 
+permite representar los datos de diferentes archivos de una manera estructurada y 
+unificada.
 
